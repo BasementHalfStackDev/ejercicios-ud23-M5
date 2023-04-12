@@ -21,7 +21,7 @@ La API gratuita REST Countries (https://restcountries.com/) tiene configurados l
 
 8. https://restcountries.com/v3.1/capital/{capital}
 
-9. https://restcountries.com/v3.1/callingcode/{callingcode}
+9. https://restcountries.com/v3.1/callingcode/{callingcode} #DEPECRATED IN VERION 3+
 
 10. https://restcountries.com/v3.1/region/{region}
 
